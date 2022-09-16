@@ -1,0 +1,802 @@
+[
+    {
+        "name": "Annabelle: Creation",
+        "link": "https://www.primevideo.com/region/eu/detail/0TPWWMQDWWCYGWG3QDIK311U8T/ref=atv_hm_hom_1_c_r1Fy1u_3_1",
+        "runtime": "1 h 49 min",
+        "released": "2017",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "David F. Sandberg"
+    },
+    {
+        "name": "The Conjuring 2",
+        "link": "https://www.primevideo.com/region/eu/detail/0F71T3M8EZ4GK92TSV8VJYRS4A/ref=atv_hm_hom_1_c_r1Fy1u_3_2",
+        "runtime": "2 h 13 min",
+        "released": "2016",
+        "age_rating": "Suitable for ages 16+",
+        "director": "James Wan"
+    },
+    {
+        "name": "Annabelle (2014)",
+        "link": "https://www.primevideo.com/region/eu/detail/0TVLUNRLP7GZF9XGTIXJBJNKA4/ref=atv_hm_hom_1_c_r1Fy1u_3_3",
+        "runtime": "1 h 38 min",
+        "released": "2014",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "John R. Leonetti"
+    },
+    {
+        "name": "Tumbbad",
+        "link": "https://www.primevideo.com/region/eu/detail/0JP2YUWYYUI1Q2NN73XBXXXC2T/ref=atv_hm_hom_1_c_r1Fy1u_3_4",
+        "runtime": "1 h 44 min",
+        "released": "2018",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Rahi Anil Barve"
+    },
+    {
+        "name": "JugJugg Jeeyo",
+        "link": "https://www.primevideo.com/region/eu/detail/0GYK9GKLR70SJPOJV2C6X2N58N/ref=atv_hm_hom_1_c_r1Fy1u_3_5",
+        "runtime": "2 h 28 min",
+        "released": "2022",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Raj Mehta"
+    },
+    {
+        "name": "The Batman",
+        "link": "https://www.primevideo.com/region/eu/detail/0SV3GW5Y2FH7EOYECU5UTQJFKO/ref=atv_hm_hom_1_c_r1Fy1u_3_6",
+        "runtime": "2 h 56 min",
+        "released": "2022",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Matt Reeves"
+    },
+    {
+        "name": "Train To Busan",
+        "link": "https://www.primevideo.com/region/eu/detail/0FBFD2JO6XZG7RFMU2OPSGE0FW/ref=atv_hm_hom_1_c_r1Fy1u_3_7",
+        "runtime": "1 h 53 min",
+        "released": "2016",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Sang-ho Yeon"
+    },
+    {
+        "name": "Hereditary",
+        "link": "https://www.primevideo.com/region/eu/detail/0T65HGH8XLZN0612MUMF3JQ2RO/ref=atv_hm_hom_1_c_r1Fy1u_3_8",
+        "runtime": "2 h 7 min",
+        "released": "2018",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Ari Aster"
+    },
+    {
+        "name": "A Quiet Place",
+        "link": "https://www.primevideo.com/region/eu/detail/0O72C8VFQGL57BYQMB2B0R1W6I/ref=atv_hm_hom_1_c_r1Fy1u_3_9",
+        "runtime": "1 h 30 min",
+        "released": "2018",
+        "age_rating": "Suitable for ages 16+",
+        "director": "John Krasinski"
+    },
+    {
+        "name": "The Boy",
+        "link": "https://www.primevideo.com/region/eu/detail/0JGMCQ8R5LJYXICPS8SR4O5QJM/ref=atv_hm_hom_1_c_r1Fy1u_3_10",
+        "runtime": "1 h 33 min",
+        "released": "2016",
+        "age_rating": "Suitable for ages 16+",
+        "director": "William Brent Bell"
+    },
+    {
+        "name": "K.G.F Chapter 2 (Hindi)",
+        "link": "https://www.primevideo.com/region/eu/detail/0OLFV66669RCQ9BSC7YCWOZA6S/ref=atv_hm_hom_1_c_r1Fy1u_3_11",
+        "runtime": "2 h 45 min",
+        "released": "2022",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Prashanth Neel"
+    },
+    {
+        "name": "The Lost City",
+        "link": "https://www.primevideo.com/region/eu/detail/0U4G709N4XBBM3DDMTT3F7R6CP/ref=atv_hm_hom_1_c_r1Fy1u_3_12",
+        "runtime": "1 h 51 min",
+        "released": "2022",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Adam Nee"
+    },
+    {
+        "name": "Joker",
+        "link": "https://www.primevideo.com/region/eu/detail/0L00GWZSCV2S1KF3VA6EY6KFRD/ref=atv_hm_hom_1_c_r1Fy1u_3_13",
+        "runtime": "2 h 1 min",
+        "released": "2019",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Todd Phillips"
+    },
+    {
+        "name": "Lights Out",
+        "link": "https://www.primevideo.com/region/eu/detail/0G0W4D68V760KOHO1579TD7PJM/ref=atv_hm_hom_1_c_r1Fy1u_3_14",
+        "runtime": "1 h 20 min",
+        "released": "2016",
+        "age_rating": "Suitable for ages 16+",
+        "director": "David F. Sandberg"
+    },
+    {
+        "name": "Orphan",
+        "link": "https://www.primevideo.com/region/eu/detail/0I9VHMNA2ZIZSU4R4I6K9VNF7Y/ref=atv_hm_hom_1_c_r1Fy1u_3_15",
+        "runtime": "2 h 2 min",
+        "released": "2009",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Jaume Collet-Serra"
+    },
+    {
+        "name": "No Time to Die",
+        "link": "https://www.primevideo.com/region/eu/detail/0TKDQXRKYJ0E2OZP1S04CBZJJW/ref=atv_hm_hom_1_c_r1Fy1u_3_16",
+        "runtime": "2 h 44 min",
+        "released": "2021",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Cary Joji Fukunaga"
+    },
+    {
+        "name": "Shamshera",
+        "link": "https://www.primevideo.com/region/eu/detail/0L1DA2J1NSMP0PGY4VEBV4OKNI/ref=atv_hm_hom_1_c_r1Fy1u_3_17",
+        "runtime": "2 h 38 min",
+        "released": "2022",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Karan Malhotra"
+    },
+    {
+        "name": "A Quiet Place Part II",
+        "link": "https://www.primevideo.com/region/eu/detail/0QH97I2EHMGBG20PAQSUJHPF3F/ref=atv_hm_hom_1_c_r1Fy1u_3_18",
+        "runtime": "1 h 39 min",
+        "released": "2021",
+        "age_rating": "Suitable for ages 16+",
+        "director": "John Krasinski"
+    },
+    {
+        "name": "Legend",
+        "link": "https://www.primevideo.com/region/eu/detail/0HBVM0PQD1G4MT8024QNG3LXLW/ref=atv_hm_hom_1_c_r1Fy1u_3_19",
+        "runtime": "2 h 11 min",
+        "released": "2015",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Brian Helgeland"
+    },
+    {
+        "name": "The Vatican Tapes",
+        "link": "https://www.primevideo.com/region/eu/detail/0L3J0F4ZOIUT5189MQ3X8LXC46/ref=atv_hm_hom_1_c_r1Fy1u_3_20",
+        "runtime": "1 h 26 min",
+        "released": "2015",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Mark Neveldine"
+    },
+    {
+        "name": "The Dictator",
+        "link": "https://www.primevideo.com/region/eu/detail/0HKANGJTT6D0KMKXZ619IRK1VG/ref=atv_hm_r1Fy1u_1_21",
+        "runtime": "1 h 23 min",
+        "released": "2018",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Larry Charles"
+    },
+    {
+        "name": "Pushpa: The Rise (Hindi)",
+        "link": "https://www.primevideo.com/region/eu/detail/0QH32UG7NRSFRGZT78NFD6KED7/ref=atv_hm_r1Fy1u_1_22",
+        "runtime": "2 h 55 min",
+        "released": "2022",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Sukumar"
+    },
+    {
+        "name": "F9: The Fast Saga",
+        "link": "https://www.primevideo.com/region/eu/detail/0FGURA7QG2V4L499UCH2X2LG79/ref=atv_hm_r1Fy1u_1_23",
+        "runtime": "2 h 22 min",
+        "released": "2021",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Justin Lin"
+    },
+    {
+        "name": "",
+        "link": "https://www.primevideo.com/region/eu/detail/0TK3S042JPC1MQHU9WD96ON228/ref=atv_hm_r1Fy1u_1_24",
+        "runtime": "1 h 42 min",
+        "released": "2022",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Julius Avery"
+    },
+    {
+        "name": "Bhoot Part One - The Haunted Ship",
+        "link": "https://www.primevideo.com/region/eu/detail/0OSEWAWFH8U83BJON2GV8UJQPP/ref=atv_hm_r1Fy1u_1_25",
+        "runtime": "1 h 54 min",
+        "released": "2020",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Bhanu Pratap Singh"
+    },
+    {
+        "name": "Rocketry - The Nambi Effect",
+        "link": "https://www.primevideo.com/region/eu/detail/0H1J8J3YQ0FTX16XWIULG1GZ6K/ref=atv_hm_r1Fy1u_1_26",
+        "runtime": "2 h 35 min",
+        "released": "2022",
+        "age_rating": "Suitable for ages 13+",
+        "director": "R Madhavan"
+    },
+    {
+        "name": "Malignant",
+        "link": "https://www.primevideo.com/region/eu/detail/0JPAD5R26MSKDVVWJ1GGRDP9ZD/ref=atv_hm_r1Fy1u_1_27",
+        "runtime": "1 h 51 min",
+        "released": "2021",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "James Wan"
+    },
+    {
+        "name": "Casino Royale",
+        "link": "https://www.primevideo.com/region/eu/detail/0LAX0XFANPXMFOTVAFV5H0LD1H/ref=atv_hm_r1Fy1u_1_28",
+        "runtime": "2 h 24 min",
+        "released": "2006",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Martin Campbell"
+    },
+    {
+        "name": "The Witch",
+        "link": "https://www.primevideo.com/region/eu/detail/0TIX2XH33LP38NWWHEET8EZKYC/ref=atv_hm_r1Fy1u_1_29",
+        "runtime": "1 h 28 min",
+        "released": "2015",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Robert Eggers"
+    },
+    {
+        "name": "Central Intelligence",
+        "link": "https://www.primevideo.com/region/eu/detail/0STC9R8UK1PIC0ED2VNETX4K2A/ref=atv_hm_r1Fy1u_1_30",
+        "runtime": "1 h 48 min",
+        "released": "2016",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Rawson Marshall Thurber"
+    },
+    {
+        "name": "Shutter Island",
+        "link": "https://www.primevideo.com/region/eu/detail/0OSDJ861OSWF2QZ7OPKMMW1A9C/ref=atv_hm_r1Fy1u_1_31",
+        "runtime": "2 h 18 min",
+        "released": "2010",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Martin Scorsese"
+    },
+    {
+        "name": "The Hangover",
+        "link": "https://www.primevideo.com/region/eu/detail/0N4OZWBKEY1IW2J3RJC7JQ6G19/ref=atv_hm_r1Fy1u_1_32",
+        "runtime": "1 h 39 min",
+        "released": "2009",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Todd Phillips"
+    },
+    {
+        "name": "Zakir Khan: Kaksha Gyarvi",
+        "link": "https://www.primevideo.com/region/eu/detail/0M6LFM5QDZP65YXU2TISC9FMR1/ref=atv_hm_r1Fy1u_1_33",
+        "runtime": "1 h 14 min",
+        "released": "2018",
+        "age_rating": "Adults.",
+        "director": "Angshuman Ghosh"
+    },
+    {
+        "name": "Final Destination 3",
+        "link": "https://www.primevideo.com/region/eu/detail/0SKPPKECK03OVPGDRXBCKMQ1X9/ref=atv_hm_r1Fy1u_1_34",
+        "runtime": "1 h 32 min",
+        "released": "2006",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "James Wong"
+    },
+    {
+        "name": "Runway 34",
+        "link": "https://www.primevideo.com/region/eu/detail/0IJ8D8SL1AK5UAJB8GDABXW914/ref=atv_hm_r1Fy1u_1_35",
+        "runtime": "2 h 25 min",
+        "released": "2022",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Ajay Devgn"
+    },
+    {
+        "name": "Don't Knock Twice",
+        "link": "https://www.primevideo.com/region/eu/detail/0UB24PHKJJYEZ05A0X4AWH0PLW/ref=atv_hm_r1Fy1u_1_36",
+        "runtime": "1 h 29 min",
+        "released": "2017",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Caradog W. James"
+    },
+    {
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "link": "https://www.primevideo.com/region/eu/detail/0OSCHRCND6YJINE89MRQAUOYBO/ref=atv_hm_r1Fy1u_1_37",
+        "runtime": "2 h 58 min",
+        "released": "2001",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Peter Jackson"
+    },
+    {
+        "name": "The Babadook",
+        "link": "https://www.primevideo.com/region/eu/detail/0OFMUJJNE5UZU1KJ7XRXZOFZIL/ref=atv_hm_r1Fy1u_1_38",
+        "runtime": "1 h 33 min",
+        "released": "2014",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Jennifer Kent"
+    },
+    {
+        "name": "Skyfall",
+        "link": "https://www.primevideo.com/region/eu/detail/0JH7B87WL3S6K4CH7F515N3BOE/ref=atv_hm_r1Fy1u_1_39",
+        "runtime": "2 h 23 min",
+        "released": "2012",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Sam Mendes"
+    },
+    {
+        "name": "Wrong Turn : The Foundation",
+        "link": "https://www.primevideo.com/region/eu/detail/0PWXIX1M3S1T2Q3W4CBD3LCA5D/ref=atv_hm_r1Fy1u_1_40",
+        "runtime": "1 h 45 min",
+        "released": "2021",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Mike P. Nelson"
+    },
+    {
+        "name": "Penguins of Madagascar",
+        "link": "https://www.primevideo.com/region/eu/detail/0GQIMDI3ZVFF7USOWFV9ZPNOGP/ref=atv_hm_r1Fy1u_1_41",
+        "runtime": "1 h 31 min",
+        "released": "2014",
+        "age_rating": "Suitable Universally",
+        "director": "Simon J. Smith"
+    },
+    {
+        "name": "Get Out",
+        "link": "https://www.primevideo.com/region/eu/detail/0I5O5QBPDCROOE5AE3CL6LT6XZ/ref=atv_hm_r1Fy1u_1_42",
+        "runtime": "1 h 40 min",
+        "released": "2017",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Jordan Peele"
+    },
+    {
+        "name": "Sonu Ke Titu Ki Sweety",
+        "link": "https://www.primevideo.com/region/eu/detail/0N0EXSVCF16I1DIFSE16VHEXM0/ref=atv_hm_r1Fy1u_1_43",
+        "runtime": "2 h 17 min",
+        "released": "2018",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Luv Ranjan"
+    },
+    {
+        "name": "Sardar Udham",
+        "link": "https://www.primevideo.com/region/eu/detail/0HMCGK9NCZLXOF74KZFSD3B1AF/ref=atv_hm_r1Fy1u_1_44",
+        "runtime": "2 h 42 min",
+        "released": "2021",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Shoojit Sircar"
+    },
+    {
+        "name": "",
+        "link": "https://www.primevideo.com/region/eu/detail/0HH267MOJG3LKDZUUHJO97LU4Z/ref=atv_hm_r1Fy1u_1_45",
+        "runtime": "1 h 33 min",
+        "released": "2022",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Karam Gill"
+    },
+    {
+        "name": "Forrest Gump",
+        "link": "https://www.primevideo.com/region/eu/detail/0N4MXDSNJPO3YWLAF24N1NIHX0/ref=atv_hm_r1Fy1u_1_46",
+        "runtime": "2 h 22 min",
+        "released": "1994",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Robert Zemeckis"
+    },
+    {
+        "name": "DOG",
+        "link": "https://www.primevideo.com/region/eu/detail/0H2TCH0S0KS39T4TAUMZGEDI96/ref=atv_hm_r1Fy1u_1_47",
+        "runtime": "1 h 40 min",
+        "released": "2022",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Reid Carolin"
+    },
+    {
+        "name": "The Purge",
+        "link": "https://www.primevideo.com/region/eu/detail/0RIEZYNN4UBFUIVYSQ92ATH9GO/ref=atv_hm_r1Fy1u_1_48",
+        "runtime": "1 h 26 min",
+        "released": "2019",
+        "age_rating": "Suitable for ages 16+",
+        "director": "James Demonaco"
+    },
+    {
+        "name": "K.G.F: Chapter 1 (Hindi)",
+        "link": "https://www.primevideo.com/region/eu/detail/0S3QBNP7336VVT7JJCVVIRHA1L/ref=atv_hm_r1Fy1u_1_49",
+        "runtime": "2 h 34 min",
+        "released": "2018",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Prashanth Neel"
+    },
+    {
+        "name": "Catch Me If You Can",
+        "link": "https://www.primevideo.com/region/eu/detail/0M6LKPJ2HNYW6VVX59043FY3T4/ref=atv_hm_r1Fy1u_1_50",
+        "runtime": "2 h 20 min",
+        "released": "2002",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Steven Spielberg"
+    },
+    {
+        "name": "Our House",
+        "link": "https://www.primevideo.com/region/eu/detail/0RHUM9M2R3T3WT6R2YNVHB4472/ref=atv_hm_r1Fy1u_1_51",
+        "runtime": "1 h 29 min",
+        "released": "2018",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Anthony Scott Burns"
+    },
+    {
+        "name": "The Shawshank Redemption",
+        "link": "https://www.primevideo.com/region/eu/detail/0JCCOI4YN3Y3T60LXE23YE1R8W/ref=atv_hm_r1Fy1u_1_52",
+        "runtime": "2 h 22 min",
+        "released": "1994",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Frank Darabont"
+    },
+    {
+        "name": "Chhorii",
+        "link": "https://www.primevideo.com/region/eu/detail/0Q12O4XUPH04ESD09EV0FD7DZ6/ref=atv_hm_r1Fy1u_1_53",
+        "runtime": "2 h 9 min",
+        "released": "2021",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Vishal Furia"
+    },
+    {
+        "name": "After",
+        "link": "https://www.primevideo.com/region/eu/detail/0JBT5G9YFQ2M7U1665L880C3S0/ref=atv_hm_r1Fy1u_1_54",
+        "runtime": "1 h 45 min",
+        "released": "2019",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Jenny Gage"
+    },
+    {
+        "name": "Pari",
+        "link": "https://www.primevideo.com/region/eu/detail/0IV864SLW83K2KCA2LWGBULRC6/ref=atv_hm_r1Fy1u_1_55",
+        "runtime": "2 h 14 min",
+        "released": "2018",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Prosit Roy"
+    },
+    {
+        "name": "Sherlock Holmes",
+        "link": "https://www.primevideo.com/region/eu/detail/0NLQWBN9L5DPWT45Y946GWZJ26/ref=atv_hm_r1Fy1u_1_56",
+        "runtime": "2 h 8 min",
+        "released": "2010",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Guy Ritchie"
+    },
+    {
+        "name": "The Mummy",
+        "link": "https://www.primevideo.com/region/eu/detail/0HX594ZVJYYRM1GCJURNZM4NY6/ref=atv_hm_r1Fy1u_1_57",
+        "runtime": "1 h 50 min",
+        "released": "2017",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Kurtzman"
+    },
+    {
+        "name": "The Dark Knight",
+        "link": "https://www.primevideo.com/region/eu/detail/0QSTXR0EXWWYI4D3UGMLFM4A0Q/ref=atv_hm_r1Fy1u_1_58",
+        "runtime": "2 h 32 min",
+        "released": "2008",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Christopher Nolan"
+    },
+    {
+        "name": "Shershaah",
+        "link": "https://www.primevideo.com/region/eu/detail/0J3P7DO2UHT2IGF8UY24C2I94C/ref=atv_hm_r1Fy1u_1_59",
+        "runtime": "2 h 15 min",
+        "released": "2021",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Vishnu Varadhan"
+    },
+    {
+        "name": "",
+        "link": "https://www.primevideo.com/region/eu/detail/0L8V88NU7CFYRKM857QDN2O5B4/ref=atv_hm_r1Fy1u_1_60",
+        "runtime": "2 h 18 min",
+        "released": "2021",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Chris McKay"
+    },
+    {
+        "name": "Gravity",
+        "link": "https://www.primevideo.com/region/eu/detail/0GZ0O97SOB4VWFWCTVWY2LCZ56/ref=atv_hm_r1Fy1u_1_61",
+        "runtime": "1 h 30 min",
+        "released": "2013",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Alfonso Cuar\u00f3n"
+    },
+    {
+        "name": "Jayeshbhai Jordaar",
+        "link": "https://www.primevideo.com/region/eu/detail/0MRMM4BGJ5HHVJJMLVCRZBCQFU/ref=atv_hm_r1Fy1u_1_62",
+        "runtime": "2 h 1 min",
+        "released": "2022",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Divyang Thakkar"
+    },
+    {
+        "name": "Spectre",
+        "link": "https://www.primevideo.com/region/eu/detail/0NKLPSSU4ZH77LZPCRWYWUBJ4Q/ref=atv_hm_r1Fy1u_1_63",
+        "runtime": "2 h 28 min",
+        "released": "2015",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Sam Mendes"
+    },
+    {
+        "name": "Harry Potter and the Deathly Hallows - Part 2",
+        "link": "https://www.primevideo.com/region/eu/detail/0T61PEFBHQ9GWXQ6RJ2NB41579/ref=atv_hm_r1Fy1u_1_64",
+        "runtime": "2 h 10 min",
+        "released": "2011",
+        "age_rating": "Suitable for ages 13+",
+        "director": "David Yates"
+    },
+    {
+        "name": "The Outpost",
+        "link": "https://www.primevideo.com/region/eu/detail/0MX5AAZIX0U145KLRJ6HCYRND3/ref=atv_hm_r1Fy1u_1_65",
+        "runtime": "2 h 1 min",
+        "released": "2020",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Rod Lurie"
+    },
+    {
+        "name": "Texas Chainsaw Massacre",
+        "link": "https://www.primevideo.com/region/eu/detail/0HOOJBA8JTQ7IEPKL1F1D2NTTH/ref=atv_hm_r1Fy1u_1_66",
+        "runtime": "1 h 28 min",
+        "released": "2013",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "John Luessenhop"
+    },
+    {
+        "name": "3 Idiots",
+        "link": "https://www.primevideo.com/region/eu/detail/0LH1GMRIWABG6AFSW62O3BJJHH/ref=atv_hm_r1Fy1u_1_67",
+        "runtime": "2 h 44 min",
+        "released": "2009",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Rajkumar Hirani"
+    },
+    {
+        "name": "The Wailing",
+        "link": "https://www.primevideo.com/region/eu/detail/0U48HTEG0OQ2SBEG1ZP6NJOLCY/ref=atv_hm_r1Fy1u_1_68",
+        "runtime": "2 h 29 min",
+        "released": "2016",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Hong-jin Na"
+    },
+    {
+        "name": "Harry Potter and the Deathly Hallows: Part 1",
+        "link": "https://www.primevideo.com/region/eu/detail/0HX3L54E0HZB7QNWTYABW1DUPO/ref=atv_hm_r1Fy1u_1_69",
+        "runtime": "2 h 26 min",
+        "released": "2010",
+        "age_rating": "Suitable for ages 13+",
+        "director": "David Yates"
+    },
+    {
+        "name": "The Founder",
+        "link": "https://www.primevideo.com/region/eu/detail/0FJY4CJV23N0AP3ZT27XE9G0YU/ref=atv_hm_r1Fy1u_1_70",
+        "runtime": "1 h 55 min",
+        "released": "2017",
+        "age_rating": "Suitable for ages 13+",
+        "director": "John Lee Hancock"
+    },
+    {
+        "name": "Dybbuk",
+        "link": "https://www.primevideo.com/region/eu/detail/0HCNY5EF04A704FV5TGY3LFVBX/ref=atv_hm_r1Fy1u_1_71",
+        "runtime": "1 h 52 min",
+        "released": "2021",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Jay K"
+    },
+    {
+        "name": "1920",
+        "link": "https://www.primevideo.com/region/eu/detail/0NYJQZO240OH992W93Q5M616B9/ref=atv_hm_r1Fy1u_1_72",
+        "runtime": "2 h 18 min",
+        "released": "2008",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Vikram Bhatt"
+    },
+    {
+        "name": "Quantum of Solace",
+        "link": "https://www.primevideo.com/region/eu/detail/0KG4LYZK83N0LJA37NJ0PSGQWY/ref=atv_hm_r1Fy1u_1_73",
+        "runtime": "1 h 46 min",
+        "released": "2008",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Marc Forster"
+    },
+    {
+        "name": "The Imitation Game",
+        "link": "https://www.primevideo.com/region/eu/detail/0MNOT0SP1M5XWYHFT1XK6Q7YGE/ref=atv_hm_r1Fy1u_1_74",
+        "runtime": "1 h 54 min",
+        "released": "2014",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Morten Tyldum"
+    },
+    {
+        "name": "Ben Stokes: Phoenix from The Ashes",
+        "link": "https://www.primevideo.com/region/eu/detail/0JHWB38UDDH4GZL8FS07SBOE3H/ref=atv_hm_r1Fy1u_1_75",
+        "runtime": "1 h 44 min",
+        "released": "2022",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Chris Grubb"
+    },
+    {
+        "name": "The Suicide Squad",
+        "link": "https://www.primevideo.com/region/eu/detail/0HYUAU32E04EN6K0X43AGFVZ07/ref=atv_hm_r1Fy1u_1_76",
+        "runtime": "2 h 12 min",
+        "released": "2021",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "James Gunn"
+    },
+    {
+        "name": "Howl",
+        "link": "https://www.primevideo.com/region/eu/detail/0R1FATBPRLM4XZ91K0RCAK5XFQ/ref=atv_hm_r1Fy1u_1_77",
+        "runtime": "1 h 32 min",
+        "released": "2015",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Paul Hyett"
+    },
+    {
+        "name": "The Departed",
+        "link": "https://www.primevideo.com/region/eu/detail/0PM9O7CSU4G7MP26ZY39LELTL8/ref=atv_hm_r1Fy1u_1_78",
+        "runtime": "2 h 31 min",
+        "released": "2007",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Martin Scorsese"
+    },
+    {
+        "name": "The Godfather Part II",
+        "link": "https://www.primevideo.com/region/eu/detail/0M29QHEWWF4FRHWY7WUQ4M0RVF/ref=atv_hm_r1Fy1u_1_79",
+        "runtime": "3 h 22 min",
+        "released": "1974",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "name": "American Sniper",
+        "link": "https://www.primevideo.com/region/eu/detail/0PUPVM001GG9N0QVJA3V3L4CT4/ref=atv_hm_r1Fy1u_1_80",
+        "runtime": "2 h 12 min",
+        "released": "2015",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Clint Eastwood"
+    },
+    {
+        "name": "Padmaavat",
+        "link": "https://www.primevideo.com/region/eu/detail/0LCQGVFVLNI8MOOGAT6T4611H2/ref=atv_hm_r1Fy1u_1_81",
+        "runtime": "2 h 42 min",
+        "released": "2018",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Sanjay Leela Bhansali"
+    },
+    {
+        "name": "13B: Fear Has a New Address",
+        "link": "https://www.primevideo.com/region/eu/detail/0GZ3E7T0Z257EKIWUAMDSBBSRI/ref=atv_hm_r1Fy1u_1_82",
+        "runtime": "2 h 24 min",
+        "released": "2009",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Vikram K. Kumar"
+    },
+    {
+        "name": "Godzilla: King of The Monsters",
+        "link": "https://www.primevideo.com/region/eu/detail/0QG3AJ7MDIJU7LVZHFKW7RA7D2/ref=atv_hm_r1Fy1u_1_83",
+        "runtime": "2 h 11 min",
+        "released": "2019",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Michael Dougherty"
+    },
+    {
+        "name": "Thank You",
+        "link": "https://www.primevideo.com/region/eu/detail/0H9QXV3DY3DBCSXN9VV9F0JDYI/ref=atv_hm_r1Fy1u_1_84",
+        "runtime": "2 h 7 min",
+        "released": "2022",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Vikram K Kumar"
+    },
+    {
+        "name": "The Wolf of Wall Street (Hindi)",
+        "link": "https://www.primevideo.com/region/eu/detail/0HNOEIQDIHGXBROAWYS9LV6Z4X/ref=atv_hm_r1Fy1u_1_85",
+        "runtime": "2 h 49 min",
+        "released": "2014",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Martin Scorsese"
+    },
+    {
+        "name": "Dune",
+        "link": "https://www.primevideo.com/region/eu/detail/0IYI4MP68J8X3KAW96CLQQXCTB/ref=atv_hm_r1Fy1u_1_86",
+        "runtime": "2 h 35 min",
+        "released": "2021",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Denis Villeneuve"
+    },
+    {
+        "name": "Sherlock Holmes: A Game Of Shadows",
+        "link": "https://www.primevideo.com/region/eu/detail/0PM7EIKCJCN6OML3QQ8SY4VJGI/ref=atv_hm_r1Fy1u_1_87",
+        "runtime": "2 h 8 min",
+        "released": "2011",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Guy Ritchie"
+    },
+    {
+        "name": "Sharmaji Namkeen",
+        "link": "https://www.primevideo.com/region/eu/detail/0P6LBXTC0YKH25VE481EJY1XCF/ref=atv_hm_r1Fy1u_1_88",
+        "runtime": "1 h 59 min",
+        "released": "2022",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Hitesh Bhatia"
+    },
+    {
+        "name": "Karwaan",
+        "link": "https://www.primevideo.com/region/eu/detail/0QSTX993OL5A98RSS66MK8HULL/ref=atv_hm_r1Fy1u_1_89",
+        "runtime": "1 h 53 min",
+        "released": "2018",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Akarsh Khurana"
+    },
+    {
+        "name": "Newton",
+        "link": "https://www.primevideo.com/region/eu/detail/0N0EJ6UTFOQHTEO2R4PMOCURS0/ref=atv_hm_r1Fy1u_1_90",
+        "runtime": "1 h 44 min",
+        "released": "2017",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Amit V Masurkar"
+    },
+    {
+        "name": "Welcome",
+        "link": "https://www.primevideo.com/region/eu/detail/0MJFLZHIV04F9V9V21RAY2Z8ZZ/ref=atv_hm_r1Fy1u_1_91",
+        "runtime": "2 h 29 min",
+        "released": "2007",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Anees Bazmee"
+    },
+    {
+        "name": "Harry Potter and the Order of the Phoenix",
+        "link": "https://www.primevideo.com/region/eu/detail/0JGIGZRDFZI6JBPR2XLFQJPHU2/ref=atv_hm_r1Fy1u_1_92",
+        "runtime": "2 h 18 min",
+        "released": "2007",
+        "age_rating": "Suitable for ages 13+",
+        "director": "David Yates"
+    },
+    {
+        "name": "B. A. Pass",
+        "link": "https://www.primevideo.com/region/eu/detail/0LPUJ8KVDMHL0UFCC7UBMCCM73/ref=atv_hm_r1Fy1u_1_93",
+        "runtime": "1 h 39 min",
+        "released": "2013",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Ajay Bahl"
+    },
+    {
+        "name": "",
+        "link": "https://www.primevideo.com/region/eu/detail/0FLVVV8UF4GMH5W5D877CAQYYV/ref=atv_hm_r1Fy1u_1_94",
+        "runtime": "2 h 29 min",
+        "released": "2022",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Ron Howard"
+    },
+    {
+        "name": "American Pie Presents: The Naked Mile (Unrated)",
+        "link": "https://www.primevideo.com/region/eu/detail/0HSVW1F4LGQ66Z0N2A8BFWSD0M/ref=atv_hm_r1Fy1u_1_95",
+        "runtime": "1 h 41 min",
+        "released": "2006",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Joe Nussbaum"
+    },
+    {
+        "name": "Rush Hour 2",
+        "link": "https://www.primevideo.com/region/eu/detail/0SP16NVJ3D7XALDX8SFSY68GWP/ref=atv_hm_r1Fy1u_1_96",
+        "runtime": "1 h 30 min",
+        "released": "2001",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Brett Ratner"
+    },
+    {
+        "name": "Phir Hera Pheri",
+        "link": "https://www.primevideo.com/region/eu/detail/0QBU3GT8ILT79GVM07ZKRLANLA/ref=atv_hm_r1Fy1u_1_97",
+        "runtime": "2 h 30 min",
+        "released": "2006",
+        "age_rating": "Suitable Universally",
+        "director": "Neeraj Vora"
+    },
+    {
+        "name": "Gehraiyaan",
+        "link": "https://www.primevideo.com/region/eu/detail/0GGH41HVCNP7B18GDI6NHAWKBP/ref=atv_hm_r1Fy1u_1_98",
+        "runtime": "2 h 28 min",
+        "released": "2022",
+        "age_rating": "Suitable for ages 18 and older",
+        "director": "Shakun Batra"
+    },
+    {
+        "name": "Fast & Furious 6",
+        "link": "https://www.primevideo.com/region/eu/detail/0NU9XSYPSDSKX0KMJYM8ZSRQEI/ref=atv_hm_r1Fy1u_1_99",
+        "runtime": "2 h 10 min",
+        "released": "2013",
+        "age_rating": "Suitable for ages 16+",
+        "director": "Justin Lin"
+    },
+    {
+        "name": "Harry Potter and the Goblet of Fire",
+        "link": "https://www.primevideo.com/region/eu/detail/0S7XYWXLBDNP77SIOXUQMIXXJT/ref=atv_hm_r1Fy1u_1_100",
+        "runtime": "2 h 37 min",
+        "released": "2005",
+        "age_rating": "Suitable for ages 13+",
+        "director": "Mike Newell"
+    }
+]
